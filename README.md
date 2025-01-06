@@ -20,20 +20,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Uso de IAs Generativas no dia dia
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Essa é uma curta-metragem de 60 segundos, que tem o intuito de trazer com naturalidade o uso de IAs Generativas no dia dia;
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+. IA Generativa CHAT GPT, para roteirização;
+. IA Generativa D-ID, para sintetização de voz e geração de avatar virtual;                                                                                                                                                                                                    . Software Adobe Premiere, para edição do vídeo;                                                                                                                                                                                                                                
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o "CHAT GPT" para escrever o roteiro, o D-ID para criar um avatar virtual e voz e software Adobe Premiere.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
+Nesta curta-metragem o objetivo foi trazer de forma simples e natural o uso de IAs Generativas.
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
